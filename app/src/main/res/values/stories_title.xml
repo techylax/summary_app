@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="stories_title">
+        <item>The Recurring Dream</item>
+        <item>The Lost Doll</item>
+        <item>The House Call</item>
+        <item>Fear</item>
+        <item>The Loving Mother</item>
+        <item>My Heart Leaps Up When I Behold</item>
+        <item>Speaking Of Children</item>
+        <item>Look At A Tea Cup</item>
+        <item>Worn Path</item>
+        <item>The Three Day Blow</item>
+        <item>The Poplar Field</item>
+        <item>The Nightmare Life Without Fuel</item>
+        <item>Unchopping A Tree</item>
+        <item>Keeping Things Whole</item>
+        <item>Concrete Cat</item>
+        <item>Oops! How’s That Again</item>
+        <item>Malini</item>
+        <item>The Six Million Dollar Man</item>
+        <item>On The Vanity Of Earthly Greatness</item>
+        <item>In Bed</item>
+        <item>The Gardener</item>
+    </string-array>
+</resources>
